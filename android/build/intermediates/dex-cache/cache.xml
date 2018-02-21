@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\632b7bab8fb933c5b253a3f46abf32ae103c5056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_63793836e44a287452182fccb3028bedf2e6ce1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\de3cfa6947a9c4b0bb778dc1a31dd235848c78b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_6d6501a9ee1da74180417f51f5167d75871c1642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_5a3f639466fc095bf1614bc7ab972ad360d074c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\8b4ff6f282f39852d9ab1f9ffb83c3447a391802\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_4f29c21d01d5053595b059e40e5e28fcb12e11d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\6bfa7512832d50d943d63bb07839e65c8d86295b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_368c339eb286d2dedde260c4a70c07d77d3d3c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\8546f7e2bb7387d23911fabc3a03f8894473723c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_bfee09def6e9b559ecf603e1c1953aefeddb4d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\43be6cf3837a6b6e0242655520014e74195f342b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_20479c0d9f4ce0cd606628deffbf680f71bb6eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\f79e97329cb030003744b920fcbbe350d3b15f11\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_f4d5d49446f5971d0a2d439d378aee3731d9323a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_0e3c4f76697800fc3e4494652363a5b346067d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\e65f519ab1f250d4a99b7b70532282379e80d869\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_14de2d447af460ff66169984cf9aed797fa80a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\44792c57f977bf4cc4282cc946d61f47a1314542\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_f32352c083ee6e724294a4e251f5eeaa493a977e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b98e6e0ab1cf920634a2f3a05a6f4d3b1e007217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\4bd71b95cc7cca1b8c4c615a82bba4433784a5e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_916af075becf8397ea62c7c09a1f61261136893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_71337ffc6e49464998d7caeed9c0312104ead349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_348b13a4d86e3ddb36cd40535f6cf1cc9e335aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\e3cbc2657560ec5c7d8b21a5ef62944f9e8b9a5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_dcf31d75df9229747118ba71d21205123c298e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\f79e97329cb030003744b920fcbbe350d3b15f11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_98d87d5983d95205704ba3a33539ad1996d503a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\10234edc102890070c17ad9caa380a5227c602e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_0bd4c7191102cd02a13f7bdd531345f9a1bc7f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b6c096197a9023f97e844de48e0f654b9cc6861c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\workspace\React-Native\project1\node_modules\react-native-maps\lib\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_aeddf1a2f843ac2228eac689c1ba83119398dff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\acc61795e404570cd5657876c2aeccd92543aabf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_fd947687741d6e8d4e086225eb216ef173d7b04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\632b7bab8fb933c5b253a3f46abf32ae103c5056\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0b007a89c5ba11e1bd1ee9bf8923bd1d93450803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_386359c60b93886c02095f83834d4140439d55e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\40d65ee6efb6595f9c3491c1ede08469a4292fcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_26e2b3b0126da2e596c4767487f839471e2333aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ebe8a301d7aa2fef011af8eae211c0a713bc5ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arwa\.android\build-cache\11743f619f07aa9129ad44cbdb50e958d29503b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Arwa\workspace\React-Native\project1\android\app\build\intermediates\pre-dexed\debug\classes_c0c085fb01cdaea2d5f310e7cbf94d7ab0ba53d1.jar" />
+    </item>
+
+</items>
